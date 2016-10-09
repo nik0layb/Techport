@@ -341,8 +341,8 @@ Filename: index.php
     namespace Wave\Code_Style\RU\PHP_Lang;
     
     // После преобразования:
-    // Windows: <root_directory>\Wave\Code_Style\RU\PHPLang.php
-    // Linux:   <root_directory>/Wave/Code_Style/RU/PHPLang.php
+    // Windows: <root_directory>\Wave\Code_Style\RU\PHP\Lang.php
+    // Linux:   <root_directory>/Wave/Code_Style/RU/PHP/Lang.php
 ```
 
 При обращении к файловой системе полностью определённый путь к пространству имён и имя класса дополняются суффиксом `.php`. При использовании `require`, `require_once` стоит помнить, что не только имена файлов (Windows, Linux, OS X) могут включать точку (CodeStyle.php может оказаться директорией).
