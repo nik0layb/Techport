@@ -806,16 +806,18 @@ __Для связи с автором:__
 [ICQ-UIN]	674009118
 [e-mail]	ev4wport@gmail.com
 ```
-##[9][0] Используемые ресурсы
+###[9][0] Используемые ресурсы
 
 __Спасибо переводчику за готовые цитаты:__
 http://svyatoslav.biz/misc/psr_translation/
 
 __Стандарты оформления кода:__
 http://www.php-fig.org/psr/psr-1/
+
 http://www.php-fig.org/psr/psr-2/
 
 __Стандарты автозагрузки:__
 http://www.php-fig.org/psr/psr-0/
+
 http://www.php-fig.org/psr/psr-4/
 
