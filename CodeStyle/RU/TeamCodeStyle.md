@@ -263,7 +263,7 @@ Filename: index.php
 	// Плохо
 	$variable_two = $variable_one ? $variable_three = $variable_one : $variable_two; 
 	
-	// Можно. Но проводится лишняя проверка и 1-2 лишних присвоения.
+	// Плохо. Но проводится лишняя проверка, 1-2 лишних присвоения и достаточно запутанно.
 	$variable_two 	= $variable_one ?: $variable_two;
 	$variable_three = $variable_one ?: $variable_three;
 	
